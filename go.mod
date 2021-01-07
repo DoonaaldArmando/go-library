@@ -1,4 +1,4 @@
-module pulsar-go
+module github.com/DoonaaldArmando/go-library
 
 go 1.15
 
