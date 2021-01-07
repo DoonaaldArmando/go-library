@@ -2,8 +2,9 @@ package gateway
 
 import (
 	"fmt"
-	eventproducer "pulsar-go/event/producer"
-	"pulsar-go/init/message"
+
+	eventproducer "github.com/DoonaaldArmando/go-library/event/producer"
+	"github.com/DoonaaldArmando/go-library/init/message"
 
 	"github.com/apache/pulsar-client-go/pulsar"
 )

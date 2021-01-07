@@ -2,12 +2,13 @@ package configuration
 
 import (
 	"fmt"
-	"pulsar-go/init/gateway"
-	"pulsar-go/init/message"
 	"strings"
 
-	EventConsumer "pulsar-go/event/consumer"
-	eventproducer "pulsar-go/event/producer"
+	"github.com/DoonaaldArmando/go-library/init/gateway"
+	"github.com/DoonaaldArmando/go-library/init/message"
+
+	EventConsumer "github.com/DoonaaldArmando/go-library/event/consumer"
+	eventproducer "github.com/DoonaaldArmando/go-library/event/producer"
 
 	"github.com/apache/pulsar-client-go/pulsar"
 )

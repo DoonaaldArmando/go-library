@@ -2,9 +2,10 @@ package configuration
 
 import (
 	"fmt"
-	"pulsar-go/init/message"
 	"testing"
 	"time"
+
+	"github.com/DoonaaldArmando/go-library/init/message"
 
 	"github.com/stretchr/testify/assert"
 )

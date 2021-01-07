@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"pulsar-go/init/message"
-	"pulsar-go/init/register"
+
+	"github.com/DoonaaldArmando/go-library/init/message"
+	"github.com/DoonaaldArmando/go-library/init/register"
 )
 
 func main() {

@@ -1,11 +1,12 @@
 package configuration
 
 import (
-	eventconsumer "pulsar-go/event/consumer"
-	eventproducer "pulsar-go/event/producer"
-	"pulsar-go/init/gateway"
-	"pulsar-go/init/message"
 	"time"
+
+	eventconsumer "github.com/DoonaaldArmando/go-library/event/consumer"
+	eventproducer "github.com/DoonaaldArmando/go-library/event/producer"
+	"github.com/DoonaaldArmando/go-library/init/gateway"
+	"github.com/DoonaaldArmando/go-library/init/message"
 )
 
 // InitData //

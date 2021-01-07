@@ -3,7 +3,8 @@ package commandconsumer
 import (
 	"context"
 	"encoding/json"
-	"pulsar-go/init/message"
+
+	"github.com/DoonaaldArmando/go-library/init/message"
 
 	"github.com/apache/pulsar-client-go/pulsar"
 )

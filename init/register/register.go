@@ -1,9 +1,9 @@
 package register
 
 import (
-	"pulsar-go/init/configuration"
-	"pulsar-go/init/gateway"
-	"pulsar-go/init/message"
+	"github.com/DoonaaldArmando/go-library/init/configuration"
+	"github.com/DoonaaldArmando/go-library/init/gateway"
+	"github.com/DoonaaldArmando/go-library/init/message"
 )
 
 // Register //

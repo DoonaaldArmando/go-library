@@ -1,8 +1,9 @@
 package message
 
 import (
-	utils "pulsar-go/init/utils"
 	"time"
+
+	utils "github.com/DoonaaldArmando/go-library/init/utils"
 
 	"github.com/google/uuid"
 )
